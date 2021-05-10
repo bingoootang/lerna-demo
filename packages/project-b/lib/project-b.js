@@ -3,5 +3,5 @@
 module.exports = projectB;
 
 function projectB() {
-    // TODO
+    console.log('this is project b.');
 }

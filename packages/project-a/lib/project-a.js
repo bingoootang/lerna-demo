@@ -3,5 +3,5 @@
 module.exports = projectA;
 
 function projectA() {
-    console.log('this is project a');
+    console.log('this is project a.');
 }
