@@ -1,0 +1,18 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "npmClient": "yarn",
+  "command": {
+    "publish": {
+      "ignoreChanges": [],
+      "message": "chore(release): publish",
+      "registry": "https://registry.npm.taobao.org"
+    },
+    "bootstrap": {
+      "npmClientArgs": ["--no-package-lock"]
+    }
+  },
+  "version": "0.1.0",
+  "useWorkspaces": true
+}
