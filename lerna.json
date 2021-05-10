@@ -10,9 +10,11 @@
       "registry": "https://registry.npm.taobao.org"
     },
     "bootstrap": {
-      "npmClientArgs": ["--no-package-lock"]
+      "npmClientArgs": [
+        "--no-package-lock"
+      ]
     }
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "useWorkspaces": true
 }
