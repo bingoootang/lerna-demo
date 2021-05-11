@@ -1,5 +1,5 @@
 {
-  "name": "@zlqx-test/project-b",
+  "name": "@zlqx/test-project-b",
   "version": "0.1.3",
   "description": "> TODO: description",
   "author": "bingoootang <bingooo.tang@gmail.com>",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "0e4ded39bcd95808187765fe7a4902b7651d6f53"
+  "gitHead": "60380e593ab485c962e286f2ba0da67c1237b412"
 }
